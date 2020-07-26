@@ -1,0 +1,13 @@
+.title {
+  text-align: center;
+  color: rgb(182, 148, 214);
+}
+
+.input {
+  width: 500px;
+  padding: 10px;
+  display: block;
+  margin: 0 auto 15px;
+  border: 1px solid rgb(201, 185, 216);
+  outline: rgb(182, 148, 214);
+}

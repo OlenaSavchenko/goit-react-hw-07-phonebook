@@ -1,0 +1,8 @@
+.list {
+  border: 1px solid blueviolet;
+  border-radius: 4px;
+  width: 500px;
+  margin: 0 auto;
+  padding: 15px;
+  text-align: center;
+}
